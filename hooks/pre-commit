@@ -1,0 +1,20 @@
+#!/bin/bash
+# Auto-run cli.py to regenerate PDF renders before each commit
+
+REPO_DIR="$(git rev-parse --show-toplevel)"
+CLI="$REPO_DIR/cli.py"
+OUTPUT="$REPO_DIR/solutions-renders"
+
+if [ ! -f "$CLI" ]; then
+    exit 0
+fi
+
+echo "Running cli.py to regenerate PDFs..."
+python3 "$CLI" "$REPO_DIR" -o "$OUTPUT"
+
+if [ $? -ne 0 ]; then
+    echo "cli.py failed — aborting commit"
+    exit 1
+fi
+
+git add "$OUTPUT"
