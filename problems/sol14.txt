@@ -1,0 +1,14 @@
+Determine where, if anywhere, the function y=2z^4-z^3-3z^2 is not changing. newline
+newline
+frac{ dy }{ dz } =8z^3 -3z^2 -6z newline
+frac{ dy }{ dz } = 0 newline
+rightarrow 
+z( 8z^2 -3z -6) = 0 
+
+newline
+z = 0 
+newline
+8z^2-4z-6 = 0 newline
+
+z = { frac{ 1 }{ 4 } } + frac{ sqrt{13 }}{ 4 } newline 
+z = { frac{ 1 }{ 4 } } - frac{ sqrt{13 }}{ 4 } newline 

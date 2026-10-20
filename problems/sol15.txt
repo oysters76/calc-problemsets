@@ -1,0 +1,19 @@
+Find the tangent line g(x ) = { frac{ 16 }{ x } } - 4sqrt{ x } at x=4 newline
+
+g( x ) = 16x^-1 -4x^frac{ 1 }{ 2 } newline
+
+frac{ dg }{ dx } = -16x^-2 -2x^{ {frac{ 1 }{ 2 } }-frac{2}{2}} newline
+frac{ dg }{ dx } = -16x^-2 -2x^{ -frac{1}{2} } newline
+
+frac{ dg }{ dx } (4)= { -frac{ 16 }{ 4^2 } } -frac{ 2 }{ sqrt4 } newline
+frac{ dg }{ dx }( 4 ) = -1 - 1 = -2 newline
+
+m = -2 newline 
+
+y - y_1 = m( x  - x_1) newline
+y_1 = {frac{ 16 }{ 4 }} - 4 sqrt4 = 4-4( 2 ) = 4 -8 = -4 newline
+
+
+y + 4 = -2 ( x - 4 ) newline
+y = -2x + 8 - 4 newline newline
+y = -2x + 4

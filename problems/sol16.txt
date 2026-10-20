@@ -1,0 +1,13 @@
+Find the tangent line f( x ) = 7x^4 + 8x^-6 + 2x at x = -1 newline
+frac{ df }{ dx } = 24x^3 -48x^-7 +2 newline
+
+frac{ df }{ dx } ( x = -1 ) = 24( -1)^3 -48( -1 )^-7 + 2 = 26newline
+
+m = 26 newline
+y - y_1 = 26 ( x + 1 )  newline
+
+y_1 = 7( -1 )^4 +8( -1 )^-6 + 2( -1 ) = 13 newline
+
+y - 13 = 26 ( x + 1 ) newline 
+y = 26x + 26 + 13 newline newline
+y = 26x + 39 
