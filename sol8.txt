@@ -1,0 +1,7 @@
+R( z  ) = { frac{ 6 }{ sqrt{z^3} } } + { frac{1}{8z^4}} - {frac{1}{3z^10}} newline
+newline
+frac{ dR }{dz } = { frac { dR}{dz} } 6z^{ -{frac{3}{2}} } + { frac{ 1 }{ 8} z^-4 } - { frac{1}{3}z^-10 } newline
+frac{ dR }{dz } = - { frac{18}{2}z^{{-frac{3}{2}}-{frac{2}{2}}} } - { frac{4}{8}z^{-5} } + { frac{10}{3}z^-11 } newline
+ frac{ dR }{dz } = -9z^{ -{frac{5}{2} }}-{ frac{1}{2}z^-5 } + { frac{10}{3}z^-11 } newline
+ newline
+ frac{ dR }{dz } = { -frac{ 9 }{ sqrt{z^5} } } - { frac{1}{2nroot{5}{z}} } + { frac{10}{3nroot{11}{z}} }

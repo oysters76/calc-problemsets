@@ -1,0 +1,2 @@
+g( z ) = 4z^7 - 3z^-7+9z newline
+frac { dg } { dz } = 24z^6 +21z^-8+9

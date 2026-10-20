@@ -1,0 +1,2 @@
+f( x ) = 6x^3 - 9x + 4 newline
+frac { d f } { dx } = 18x^2 -9

@@ -1,0 +1,2 @@
+y = 2t^4 - 10t^2 +13t newline
+frac { dy } { dt } = 8t^3 -10t + 13

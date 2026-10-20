@@ -1,0 +1,6 @@
+f( x  ) = 10 nroot{ 5 }{ x^3 } - sqrt { x^7 } + 6 nroot{ 3 } { x^8 } - 3  newline
+frac { df } { dx } = frac { df } { dx }  10x^{frac{3}{5}} - x^{{frac{1}{7}}} +6x^{ frac{8}{3} } - 3 newline
+frac { df } { dx } = frac{ 30 }{ 5 }x^{ {frac{3}{5}} - frac{5}{5} } - frac{ 1 }{ 7 } x ^{ {frac{1}{7}} - frac{7}{7} } + frac{ 48 }{ 3} x^{{frac{8}{3}} - frac{3}{3}} newline
+
+frac{ df } { dx } = 6x^{ frac{-2}{5} } - frac{ 1 }{ 7 } x^{ frac{-6}{7} } + 16x^{ frac{5}{3} } newline
+frac{ df } { dx } = {frac{ 6 }{ nroot{5}{x^2 }}}-{frac{ 1 }{ 7nroot{7}{x^6}}}+ 16nroot{ 3 }{ x^5 }

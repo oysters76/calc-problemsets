@@ -1,0 +1,4 @@
+f( t ) = {frac{ 4 }{ t }} - {frac{ 1 }{ 6t^3 }} + { frac{8}{t^5} } newline
+frac { df } { dt } = frac{ df }{ dt } 4t^-1 -6t^-3 +8t^-5 newline
+frac { df } { dt } = -4t^-2 +18t^-4-40t^-6 newline
+frac { df } { dt } = { -frac{ 4 }{ t^2 } } + { frac{18}{t^4} } - { frac{40}{t^6} }
