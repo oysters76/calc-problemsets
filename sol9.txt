@@ -1,0 +1,3 @@
+z = x( {3x^2} - 9 )  newline
+z = 3x^3 - 9x newline 
+frac{ d }{ dz } = 9x^2 -9

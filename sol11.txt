@@ -1,0 +1,7 @@
+h( x ) = frac{ 4x^3  -7x+8} { x } newline
+ h(x)  = { x^-1(4x^3  -7x+8)} newline
+ h(x) = 4x^{ 3-1 } -7x^{ 1-1 } + 8x^-1 newline
+ h( x ) = 4x^2 -7x^0 + 8x^-1 newline 
+ 
+ frac{ dh }{ dx } = 8x-0-8x^-2 newline
+ frac{ dh }{ dx } = -8x^-2 +8x

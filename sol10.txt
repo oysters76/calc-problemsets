@@ -1,0 +1,5 @@
+g( y ) = ( y  - 4 ) ( {2y} + y^2 ) newline
+g( y ) =  2y^2 + 2y^3 - 8y -4y^2 newline 
+frac{ dg }{ dy } = 4y +6y^2 -8 -8y newline
+frac{ dg }{ dy } = 6y^2-8y+4y-8 newline
+frac{ dg }{ dy } = 6y^2-4y-8
