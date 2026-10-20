@@ -1,0 +1,23 @@
+Determine where if anywhere the function f( x  ) = x^3 + 9x^2 - 48x + 2 is not changing. newline
+
+frac{ df }{ dx } = 3x^2 +18x - 48 newline
+frac{ df }{ dx } = 0 if 3x^2 +18x-48 = 0 newline
+
+newline
+
+3( x^2 + 6x -  16) = 0 newline
+
+x^2 + 6x - 16 = 0 newline 
+( x + 8)( x - 2) = 0 newline 
+( x + 8 ) = 0 newline
+( x-2  ) = 0 newline 
+
+
+newline 
+
+x = -8 newline
+x = 2
+
+newline 
+f( -8 ) = ( -8 )^3 + 9( -8 )^2 -48( -8 ) + 2 = 450 newline
+f( 2 ) = ( 2 )^3 + 9( 2 )^2 -48( 2 ) + 2 = -50 newline
