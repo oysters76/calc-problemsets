@@ -1,0 +1,2 @@
+K( x ) = frac{ 1+e^{-2x} }{ x+tan(12x) } newline 
+K'(x ) = frac{ (e^-{2x} . -2) .(x+tan(12x)) - ((1 + sec^2(12x)).12 )}{ (x+tan(12x))^2 } newline newline 

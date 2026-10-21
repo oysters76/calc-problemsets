@@ -1,0 +1,2 @@
+u( t ) = tan^{-1}( 3t-1 ) newline
+u'( t ) = frac{ 3 }{ 1+(3t-1)^2 } 

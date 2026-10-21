@@ -1,0 +1,5 @@
+y = nroot{ 3 }{ 1-8z } = ( 1-8z )^frac{ 1 }{ 3 } 
+newline
+hat y = frac{ 1-8z}{ 3 }( -8 ) 
+newline 
+hat y = frac{ -8 +64z }{ 3 }

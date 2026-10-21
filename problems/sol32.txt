@@ -1,0 +1,3 @@
+V( x ) = ln( sin(x) - cot(x) ) newline 
+V'( x ) = frac{ 1 }{ sin(x) -cot(x) } .( cos(x) - (-csc^2(x)) ) newline 
+V'( x ) = frac{ cos(x)+csc^2(x) }{ sin(x) - cot(x) }

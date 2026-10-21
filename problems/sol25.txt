@@ -1,0 +1,4 @@
+G( x ) = 2sin( 3x+tan(x) )
+newline
+
+frac{ dG }{ dx } = 2cos( 3x+tan(x) )( 3 + sec^2(x) )

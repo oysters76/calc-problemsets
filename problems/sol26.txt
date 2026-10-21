@@ -1,0 +1,2 @@
+h( u ) = tan( 4+10u ) newline 
+h'( u ) = sec^2( 4+10u )( 10 )

@@ -1,0 +1,8 @@
+R( w ) = csc( 7w )
+newline
+R( w ) = frac{ 1 }{ sin(7w) } 
+newline
+newline
+frac{ dR }{ dw } = frac{ dR }{ dcsc }.frac{ dcsc }{ Dw }
+newline
+frac{dR}{dw} = -7csc( 7w )cot( 7w )

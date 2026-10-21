@@ -1,0 +1,3 @@
+q( t ) = t^2ln( t^5 ) newline 
+q'( t ) = 2t.ln( t^5 ) + frac{ 1 }{ t^5 }.5t^4 newline 
+q'( t ) = 2t.ln( t^5 ) + frac{ 5t^4 }{ t^5 } 

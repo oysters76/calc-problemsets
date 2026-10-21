@@ -1,0 +1,4 @@
+y = frac{ sin(3t) }{ 1+t^2 } newline 
+hat y = frac{ 2t.sin(3t) + cos(3t).3(1+t^2) } { (1+t^2)^2 }
+newline 
+hat y = frac{ 2t.sin( 3t ) +3cos( 3t )( 1+t^2 ) }{ (1+t^2)(1+t^2) }

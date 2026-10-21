@@ -1,0 +1,2 @@
+h( z ) = sin( z^6 ) + sin^6( z ) newline 
+h'( z ) = cos( z^6 ).6z^5 + 6sin^5( z )cos( z )

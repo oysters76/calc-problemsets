@@ -1,0 +1,5 @@
+H( z ) = 2^{ 1-6z } newline 
+
+frac{ d }{ dx } ( n^x) = n^x ln( n ) 
+newline
+H'( z ) = 2^{ 1-6z }ln( 2 ).(-6  )

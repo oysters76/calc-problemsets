@@ -1,0 +1,5 @@
+S( w ) = sqrt( 7w ) +e^-w 
+newline
+S( w ) = ( 7w )^{ frac{1}{2} } + e^-w newline 
+S'( w ) = frac{ 1 }{ 2 }( 7w )^{ {frac{1}{2}} - {frac{2}{2}} }.7 +e^-w .-1 newline
+S'( w ) = { frac{ 7 }{ 2sqrt(7w) } } - e^-w

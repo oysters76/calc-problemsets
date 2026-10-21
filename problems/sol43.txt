@@ -1,0 +1,7 @@
+z = sqrt ( 5x +  tan(4x ) ) newline 
+z = ( 5x + tan(4x) )^frac{ 1 }{ 2 } newline 
+newline 
+
+hat z = frac{ 1 }{ 2 }( 5x+tan(4x) )^{ -frac{1}{2} } .( 5  + 4sec^2(4x)) newline 
+
+hat z = frac{ 5+4sec^2(4x)}{ 2 sqrt(5x+tan(4x)) } 

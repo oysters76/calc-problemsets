@@ -1,0 +1,4 @@
+g( x ) = e^{ 1-cos(x) } 
+newline 
+g'( x ) = e^{ 1-cos(x) }.-1( -sin(x) ) newline 
+g'( x ) = e^{ 1-cos(x) }.sin( x )
