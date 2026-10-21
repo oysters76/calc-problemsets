@@ -19,6 +19,7 @@ import sys
 import tempfile
 import shutil
 import zipfile
+from xml.sax.saxutils import escape
 
 
 def build_odf(formula: str, odf_path: str) -> None:
@@ -28,7 +29,7 @@ def build_odf(formula: str, odf_path: str) -> None:
         '<math xmlns="http://www.w3.org/1998/Math/MathML">\n'
         " <semantics>\n"
         '  <annotation encoding="StarMath 5.0">'
-        f"{formula}"
+        f"{escape(formula)}"
         "</annotation>\n"
         " </semantics>\n"
         "</math>"
