@@ -1,0 +1,25 @@
+"determine where the function " R( x) = ( x+1 )( x-2 )^2 "is increasing and decreasing"  newline 
+R( x ) = ( x+1 )( x-2 )( x-2 ) newline 
+(x+1)( x^2-4x+4 ) newline 
+x^3-4x^2+4x+ x^2-4x+4 newline
+x^3 -3x^2+4 newline
+
+newline
+R'( x ) = 3x^2 -6x newline
+R'( x ) = 3x( x-2 ) newline
+
+x = 0, x = 2 
+
+newline 
+newline 
+0.01 = "-"
+newline 
+-0.01 = "+" 
+newline
+2.01 = "+" 
+newline 
+1.98 = "-" 
+
+newline
+"increasing" -> ( -infinity,0 ) union ( 2, infinity ) newline 
+"decreasing" -> ( 0, 2 )
