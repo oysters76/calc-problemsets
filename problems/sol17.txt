@@ -1,0 +1,30 @@
+The position of an object at any time t is given by newline
+s( t ) = 3t^4 - 40t^3 +126t^2 -9 newline
+
+s'( t ) = 12t^3 -40( 3 )t^2 +126( 2 ) t newline
+s'( t ) = 12t^3 -120t^2 +252t newline
+
+newline
+determine the velocity of the object at any time t : s'( t ) newline newline
+Does the object ever stop moving: s'( t ) = 0? newline
+12t^3 -120t^2 +252t = 0  newline
+t( 12t^2 -120t + 252) = 0newline
+t = 0, 12t^2-120t+252 = 0 newline
+t = 7, t= 3
+
+newline newline 
+"when is the object moving to the right and when is the object moving to the left?"  newline newline
+"right/left movement" -> "test with: " t = 0.01 t = -0.01, t= 7.01,6.98, t=3.01,2.98 "etc" newline
+
+s'( 0.01 ) = 12( 0.01 )^3 -120( 0.01 )^2 +252( 0.01 ) = 2.508 newline 
+s'( -0.01 ) = 12( -0.01 )^3 -120( -0.01 )^2 +252( -0.01 ) = -2.53 newline newline
+s'( 7.01 ) = 12( 7.01 )^3 -120( 7.01 )^2 +252( 7.01 ) = 3.37 newline 
+s'( 6.98 ) = 12( 6.98 )^3 -120( 6.98 )^2 +252( 6.98 ) = -6.66 newline newline
+s'( 3.01 ) = 12( 3.01 )^3 -120( 3.01 )^2 +252( 3.01 ) = -1.44 newline  
+s'( 2.98 ) = 12( 2.98 )^3 -120( 2.98 )^2 +252( 2.98 ) = 2.87 newline
+
+newline 
+"right:" t < 0 or (t>3 and t<7) newline
+"left:" (t > 0 and t < 3) or ( t > 7 ) newline
+
+

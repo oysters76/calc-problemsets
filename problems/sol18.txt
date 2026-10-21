@@ -1,0 +1,23 @@
+"determine where the function" h( z ) = 6 +40z^3 -5z^4 -4z^5 " is increasing and decreasing" newline 
+
+h'( z ) = 120 z^2 -20z^3 -20z^4 newline
+
+h'( z ) = z^2( 120 - 20z - 20z^2 ) newline 
+h'( z ) = z^2( -20z^2 - 20z + 120 ) newline
+z = -3, z=2 ,z = 0
+
+newline newline
+
+h'( 0.01 ) = "+" newline
+h'( -0.01 ) = "+" newline newline
+h'( -3.01 ) = "-" newline
+h'( -2.98 ) = "+" newline newline
+h'( 2.01 ) = "-" newline 
+h'( 1.98 )  = "+" newline newline
+
+
+newline 
+"decreasing" -> (- infinity,3) union ( 2, infinity ) 
+newline 
+"increasing" -> ( -3, 2 )
+
