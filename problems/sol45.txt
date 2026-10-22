@@ -1,0 +1,2 @@
+f( t ) = ( e^{-6t} + sin(2-t))^3 newline 
+f'( t ) = 3( e^{-6t} + sin(2-t) )^2( -6e^{-6t}-cos(2-t) )

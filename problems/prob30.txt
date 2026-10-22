@@ -1,0 +1,10 @@
+"Determine where " V( z ) = z^4( 2z - 8)^3 "is increasing and decreasing" newline 
+V'( z ) = 4z^3( 2z-8 )^3 + 6( 2z-8 )^2 z^4 newline 
+V'( z ) = 8z^3( z-4 )^2( 7z-16 ) newline
+
+z = 0, z = 4, z = frac{ 16 }{ 7 }
+newline
+
+"increasing" -> ( -infinity, 0 ) union ( frac{16}{4},4 ) union ( 4, infinity ) 
+newline 
+"decreasing" -> ( 0, frac{16}{4} )

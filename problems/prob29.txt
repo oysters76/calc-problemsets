@@ -1,0 +1,9 @@
+f( x ) = 4 sqrt( 2x ) - 6e^{ 2-x } 
+newline 
+f( x ) = 4( 2x )^{frac{ 1 }{2}} -6e^{ 2-x } 
+newline 
+f'(x ) = 4.frac{ 1 }{ 2 }.( 2x )^{ -frac{1}{2} } -6e^{ 2-x }.-1 
+newline 
+f'( x ) = 2( 2x )^{ -frac{1}{2} } +6e^{ 2-x } 
+newline
+f'(x ) = {frac{ 2 }{ sqrt(2x) } } +  6e^{ 2-x } 
