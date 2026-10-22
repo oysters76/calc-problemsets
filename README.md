@@ -22,7 +22,7 @@ Requires LibreOffice Math (`apt install libreoffice-math`).
 ## Setup after cloning
 
 ```bash
-git config core.hooksPath hooks
+bash setup.sh
 ```
 
-This activates the pre-commit hook that auto-regenerates PDFs on every commit.
+This creates a virtual environment, installs dependencies, and configures the pre-commit hook that auto-regenerates PDFs on every commit.
