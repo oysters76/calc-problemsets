@@ -1,0 +1,3 @@
+A( t ) = t^2 e^{ 5-t } newline 
+A'( t ) = 2te^{ 5-t } + t^2 e^{ 5-t }.-1 newline newline
+A'( t ) = 2te^{ 5-t } -t^2 e^{ 5-t } 
