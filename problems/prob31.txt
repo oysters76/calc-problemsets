@@ -1,0 +1,12 @@
+s( t ) = sin( 3t  ) - 2t + 4 newline 
+s'( t ) = cos( 3t ).3 - 2 newline 
+s'( t ) =  3cos( 3t ) - 2
+
+newline
+cos( 3t ) = frac{ 2 }{ 3 }
+newline 
+3t = arccos( frac{2}{3} )
+newline 
+t = frac{ arccos( frac{2}{3} ) }{ 3 } newline 
+"increasing" -> ( 0,0.28 ) union( 1.81, 2.37 ) newline
+"decreasing" -> ( 0.28,  1.81) union ( 2.37, 3 ) newline
