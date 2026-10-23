@@ -33,12 +33,14 @@ def run(start, stop, spacing):
     ax1.set_ylim(-10, 60) 
     for cx in xs[sign_changes]:
         ax1.axvline(cx, color='red', linestyle='--', alpha=0.7)
+    ax1.axhline(1, color='green', linestyle='--', alpha=0.7)    
 
     sns.lineplot(x=xs, y=ys_derv, ax=ax2)
     ax2.set_title("a'(t)")
     ax2.set_ylim(-50, 50) 
     for cx in xs[sign_changes]:
         ax2.axvline(cx, color='red', linestyle='--', alpha=0.7)
+    ax2.axhline(1, color='green', linestyle='--', alpha=0.7)    
 
     plt.tight_layout() 
     plt.show() 
