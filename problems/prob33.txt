@@ -1,0 +1,13 @@
+f( x ) = ln( x^4 + 20x^3 + 100 ) newline
+f'( x ) = { frac{ 1 }{ x^4  + 20x^3}+100 } ( 4x^3  + 60x^2) newline newline
+f'(x ) = frac{ 4x^3  + 60x^2 }{ x^4  + 20x^3 +100 }
+
+newline 
+newline
+4x^3 +60x^2 = 0 newline 
+4x^2( x + 15 ) = 0 
+
+newline
+x = -15, x = 0 
+newline
+"increasing" -> (0,20)
